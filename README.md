@@ -1,15 +1,18 @@
-# my-first-github-project
+# Personal Landing Page 🚀
 
-Este é um teste de criação de repositório no GitHub.
+A modern, visually stunning personal landing page built with semantic HTML, vanilla CSS, and lightweight JavaScript. This project was developed as part of a GitHub workflow setup.
 
-This is a test of creating a repository on GitHub.
+## ✨ Features
+- **Premium Glassmorphism:** Sleek translucent UI panels featuring dynamic background blur.
+- **Dynamic Aesthetics:** Animated ambient gradient orbs creating a living background.
+- **Micro-Interactions:** A subtle mouse-tracking parallax effect on the main content card.
+- **Modern Typography:** Integrated with Google's 'Outfit' font family for crisp, elegant reading.
+- **Zero Dependencies:** Pure Vanilla HTML/CSS/JS. No heavy frameworks or build steps required.
 
-Eso es un test de creación de repositorio en GitHub.
+## 📁 Architecture
+- `index.html` - The structural skeleton and semantic markup.
+- `style.css` - Advanced styling utilizing CSS variables, Flexbox, and CSS animations.
+- `script.js` - DOM manipulation for dynamic dates and interactive parallax logic.
 
-# About me 
-
-I am a software engineer with experience in web development and mobile development.
-
-# Contact
-
-Email: [EMAIL_ADDRESS]
+## 🚀 Getting Started
+Since there are no build steps, you can simply open `index.html` in any modern web browser to view the project locally!
